@@ -43,3 +43,14 @@ TestResults/
 secrets.json
 *.env
 
+
+# Python-specific (MCPServer_Pdf)
+MCPServer_Pdf/.venv/
+MCPServer_Pdf/__pycache__/
+MCPServer_Pdf/*.pyc
+MCPServer_Pdf/*.pyo
+MCPServer_Pdf/*.egg-info
+MCPServer_Pdf/.pytest_cache/
+MCPServer_Pdf/build/
+MCPServer_Pdf/dist/
+MCPServer_Pdf/wheels/
