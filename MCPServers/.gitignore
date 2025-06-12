@@ -1,9 +1,10 @@
 # Ignore everything
 *
 
-# But do not ignore these files
-!main.py
-!pyproject.toml
+# Do not ignore these specific files
+!MCPServers/MCPServer_Pdf/
+!MCPServers/MCPServer_Pdf/main.py
+!MCPServers/MCPServer_Pdf/pyproject.toml
 
 # Optional: allow .gitignore itself to be tracked
 !.gitignore
