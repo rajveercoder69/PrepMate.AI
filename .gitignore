@@ -1,0 +1,54 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Project-specific
+*.dbmdl
+*.bak
+
+# Auto-generated
+Generated_Code/
+
+# Coverage results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Secrets (optional)
+secrets.json
+*.env
+
+
+# Good .gitignore sample
+*.log
+.vs/
+.idea/
+.venv/
+__pycache__/
+*.pyc
+
